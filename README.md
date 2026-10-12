@@ -1,0 +1,2 @@
+# premium-reading-list-001-reading-list-book-tracker
+Ever finished a book and realized you can barely recall a single insight? Your 'reading list' is just a list, not a learning system. This Notion template turns passive tracking into an active reading engine that helps you actually retain and apply what you read.  Most reading trackers only log titles and dates—this one helps you build a second brai
